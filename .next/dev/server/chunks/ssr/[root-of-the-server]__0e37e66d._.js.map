@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/NoLS%20Version%202.1/Downloads/card-design-system/app/dashboard/page.tsx"],"sourcesContent":["import { redirect } from \"next/navigation\"\n\nexport default function DashboardPage() {\n  redirect(\"/dashboard/templates\")\n}\n"],"names":[],"mappings":";;;;AAAA;AAAA;;AAEe,SAAS;IACtB,IAAA,iMAAQ,EAAC;AACX"}}]
-}
