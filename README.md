@@ -110,13 +110,3 @@ If you find this project useful, feel free to ⭐ star the repository.
 
 yaml
 Copy code
-
----
-
-## ✅ Hatua ya Mwisho
-Baada ya ku-save `README.md`:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
